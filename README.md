@@ -1,2 +1,1 @@
-# first
-hi this is my first github repo
+#This repo contains number theory codes that are useful in competitive programming.
